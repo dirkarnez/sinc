@@ -1,5 +1,12 @@
 sinc
 ====
+### TODO
+- FLTK for confirmation
+- .gitignore-like mechanisem
+- play around with C++20
+  - Modules
+  - Coroutines
+
 ### Robocopy
 sync.bat
 ```
