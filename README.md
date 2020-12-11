@@ -2,6 +2,7 @@ sinc
 ====
 ### TODO
 - FLTK for confirmation
+  - display what chosen as radio-button group
 - .gitignore-like mechanisem
 - play around with C++20
   - Modules
